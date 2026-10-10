@@ -1,0 +1,26 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments and local environment settings
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Editor settings
+.vscode/
+.idea/
+
+# Local operating-system files
+.DS_Store
+Thumbs.db
+
+# Generated analysis outputs
+output/
+outputs/
+*.log
